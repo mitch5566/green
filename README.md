@@ -25,3 +25,34 @@
 - `ReturnURL`: 支付結果回傳的 URL
 
 [綠界測試環境連結](https://payment-stage.ecpay.com.tw/Cashier/AioCheckOut/V5)
+
+
+https://developers.ecpay.com.tw/?p=45895
+https://developers.ecpay.com.tw/?p=7398
+
+
+# 綠界測試環境特店資料
+
+## 信用卡 3D 驗證特店資料
+
+- **特店編號 (MerchantID)**: `3002607`
+- **串接金鑰 HashKey**: `pwFHCqoQZGmho4w6`
+- **串接金鑰 HashIV**: `EkRm7iFT261dpevs`
+
+## 無信用卡 3D 驗證特店資料
+
+- **特店編號 (MerchantID)**: `2000132`
+- **串接金鑰 HashKey**: `5294y06JbISpM5x9`
+- **串接金鑰 HashIV**: `v77hoKGq4kWxNNIS`
+
+---
+
+> 這些測試環境的特店資料僅適用於測試用途，請勿用於正式環境。正式環境中的相關資訊將由綠界分配，請參考綠界官方文件以獲取正式環境的資料。
+
+資料來源：[ECPay 開發者中心](https://developers.ecpay.com.tw/)
+
+
+
+
+
+
